@@ -1,1 +1,1 @@
-great val
+great var
